@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Notepad",
+  "description": "A secure and private notepad application where users can create an account to manage their personal notes. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
